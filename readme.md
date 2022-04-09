@@ -1,46 +1,51 @@
-<!DOCTYPE html>
-<html lang="en">
-    <head>
-        <meta charset="utf-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-        <meta name="description" content="" />
-        <meta name="author" content="" />
-        <title>The Big Picture - Start Bootstrap Template</title>
-        <!-- Favicon-->
-        <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
-        <!-- Core theme CSS (includes Bootstrap)-->
-        <link href="css/styles.css" rel="stylesheet" />
-    </head>
-    <body>
-        <!-- Navigation-->
-        <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-bottom">
-            <div class="container px-4 px-lg-5">
-                <a class="navbar-brand" href="#!">Start Bootstrap</a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
-                <div class="collapse navbar-collapse" id="navbarResponsive">
-                    <ul class="navbar-nav ml-auto">
-                        <li class="nav-item active"><a class="nav-link" href="#!">Home</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#!">About</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#!">Services</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#!">Contact</a></li>
-                    </ul>
-                </div>
-            </div>
-        </nav>
-        <!-- Page Content-->
-        <section>
-            <div class="container px-4 px-lg-5">
-                <div class="row gx-4 gx-lg-5">
-                    <div class="col-lg-6">
-                        <h1 class="mt-5">The Big Picture</h1>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt voluptates rerum eveniet sapiente repellat esse, doloremque quod recusandae deleniti nostrum assumenda vel beatae sed aut modi nesciunt porro quisquam voluptatem.</p>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- Bootstrap core JS-->
-        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
-        <!-- Core theme JS-->
-        <script src="js/scripts.js"></script>
-    </body>
-</html>
+# Andrew Gabra
+
+agabra@uw.edu
+
+
+https://www.linkedin.com/in/andrew-gabra-480931191/
+
+# Summary
+
+Quick Summary (not objective) specifically highlighting why you qualify for the job.
+
+# Work Experience (only last 10 years)
+
+## University Of Washington (Seattle, WA)
+
+
+** Lifegaurd / First Aid ** (08/2018 - 12/2022)
+
+Summary of your role
+
+- Accomplishment that contains **bold text**.
+- Red Cross CPR Certificate
+- Red Cross lifegaurd Certificate
+- Swim lesson trainging
+
+## Washington Atheletic Club (Seattle, WA)
+
+** Front Desk representative ** (08/2020 - 03/2021)
+
+Summary of your role
+
+- Accomplishment that contains **bold text**.
+- Answered phone calls
+- Checked in customers
+- Prefromed closing and opening procedures 
+
+## Microsoft (Redmond, WA)
+
+** Research Assistant ** (01/2021 - 06/2021)
+
+Summary of your role
+
+- Accomplishment that contains **bold text**.
+- Learned about data augmentation
+- built databases
+- Manged to work with machine learning models
+
+
+[University 1]: http://www.univ1.edu
+[University 2]: http://www.univ2.edu
+[University 3]: http://www.univ3.edu
